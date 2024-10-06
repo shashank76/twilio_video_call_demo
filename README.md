@@ -40,5 +40,3 @@ Your application should now be running at [http://localhost:3000](http://localho
 the name of the room you want to join and click on 'Join Room'. Then,
 open another tab and join the same room. Now, you should see your own
 video in both the tabs!
-
-![screenshot of chat app](quickstart/public/quickstart.png)
